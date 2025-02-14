@@ -25,7 +25,7 @@ A Python-based automated bot for interacting with Plaza Finance protocol on Base
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Madleyym/plaza-finance-bot
 cd plaza-finance-bot
 ```
 
