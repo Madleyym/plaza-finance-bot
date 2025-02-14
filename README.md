@@ -36,7 +36,6 @@ pip install web3 requests asyncio colorama python-dotenv tenacity
 
 3. Create and configure `.env` file:
 ```env
-PLAZA_API_KEY=your_api_key_here
 HTTP_PROXY=your_proxy_url_here  # Optional
 ```
 
